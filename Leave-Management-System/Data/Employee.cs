@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Leave_Management_System.Data
 {
-    public class Employee : IdentityUser 
+    public class Employee : IdentityUser
     {
 
         public string Firstname { get; set; }

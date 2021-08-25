@@ -7,7 +7,7 @@ namespace Leave_Management_System.Models
 {
     public class EmployeeVM
     {
-        public int id { get; set; }
+        public string id { get; set; }
         public string UserName { get; set; }
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
